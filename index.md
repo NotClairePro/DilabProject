@@ -1,6 +1,6 @@
 # Dilab Project
 Dilab est une plateforme musicale permettant à ses utilisateurs enregistrés de créer des groupes et des projets musicaux où les gens peuvent collaborer entre eux. Les projets musicaux seront accessibles à tous les visiteurs du site et pourront être écoutés en streaming. Le projet est encore loin d'être abouti, mais on peut déjà se faire une idée de l'apparence de l'interface à travers l'état du site, accessible à l'adresse suivante (sur ordinateur uniquement. Interface pas encore optimisée pour mobiles) \
-url(https://e.diskloud.fr/Dilab) \
+[Lien du site](https://e.diskloud.fr/Dilab) \
 NB : Ne pensez pas que le site est en état de marche, pour l'instant seules certaines fonctionnalités fonctionnent vraiment (création d'un compte Dilab et d'un groupe), le reste est encore à développer !
 # Informations projet
 La suite du développement du projet sera assurée par un club au sein du lycée international de saint germain en laye, club ouvert à tous les lycéens de l'établissement.
@@ -13,7 +13,7 @@ si vous ne savez pas ce qu'est un schéma relationnel, ne vous inquiétez pas ! 
 + __Gestion de la partie serveur et du réseau__\
 Cette partie du projet consiste à gérer la façon dont l'utilisateur intéragit avec le serveur, c'est-à-dire l'ordinateur qui "possède", héberge le site web. C'est grâce à la partie serveur que vous voyez une page s'afficher lorsque vous entrez l'adresse du site et que vous pouvez interagir avec Dilab, notamment en créant un compte.
 # Autres compétences pouvant être développées
-Le projet ne nécessite pas seulement des geeks ou des matheux, mais aussi des peronnes créatives qui imagineraient l'apparence de certaines pages du site et qui peuvent également donner des avis sur l'expérience utilisateur. Pour les personnes qui aiment dessiner, il existe également un format d'image appelé svg, qui permet de "coder" des images à partir d'une syntaxe proche du html, c'est-à-dire une écriture basée sur des balises (exemple de balise : <code>&lt;svg&gt;</code>). Cette solution permet de créer des icones faciles à animer à l'aide de langages algorithmiques (exemple avec deux logos animés par un algorithme JavaScript que vous pouvez découvrir sur https://dev.diskloud.fr/logo%20demo.html). Ces compétences sont également utiles à la conception de l'interface graphique du site.
+Le projet ne nécessite pas seulement des geeks ou des matheux, mais aussi des peronnes créatives qui imagineraient l'apparence de certaines pages du site et qui peuvent également donner des avis sur l'expérience utilisateur. Pour les personnes qui aiment dessiner, il existe également un format d'image appelé svg, qui permet de "coder" des images à partir d'une syntaxe proche du html, c'est-à-dire une écriture basée sur des balises (exemple de balise : <code>&lt;svg&gt;</code>). Cette solution permet de créer des icones faciles à animer à l'aide de langages algorithmiques (exemple avec deux logos animés par un algorithme JavaScript que vous pouvez découvrir sur [https://dev.diskloud.fr/logo%20demo.html](https://dev.diskloud.fr/logo%20demo.html)). Ces compétences sont également utiles à la conception de l'interface graphique du site.
 # Ce qui le projet peut vous apporter
 Cet club peut vous aider à développer et étendre vos compétences en programmation. L'avantage de ce projet est qu'il offre un moyen exceptionnel d'appliquer des connaissances nouvelles en informatique. De plus, vous pourrez ainsi créer à votre tour d'autre projets, avec ou sans le club et gérer un serveur, en particulier un serveur Web.
 # Compétences requises
@@ -26,4 +26,4 @@ C'est la seule exigence dans ce projet. _Tout le monde_ est la bienvenue dans le
 # Contact
 Le projet est géré par Claire D'Iorio (T°9) et Edouard Aubert (T°7) n'hésitez pas à nous voir en cas de questions \
 Sinon, vous pouvez également nous contacter à l'adresse support@diskloud.fr
-Vous pouvez également nous rejoindre sur https://join.slack.com/t/atelier-web/shared_invite/zt-13h6ejy8y-ZixOenuAPeTbrhiP0YYeOg
+Vous pouvez également nous rejoindre sur [slack](https://join.slack.com/t/atelier-web/shared_invite/zt-13h6ejy8y-ZixOenuAPeTbrhiP0YYeOg)
